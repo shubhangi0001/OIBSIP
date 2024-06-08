@@ -76,5 +76,9 @@ A tribute page dedicated to a famous personality, showcasing basic HTML and CSS 
    ```sh
    git clone https://github.com/shubhangi0001/OIBSIP.git
 
+## License
+This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.md file for details.
+
+
 ## Contact
 [LinkedIn ](https://www.linkedin.com/in/shubhangi23/)
